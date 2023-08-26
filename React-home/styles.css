@@ -1,0 +1,115 @@
+.overall-container {
+    display: flex;
+    justify-content: center;
+    background: black;
+}
+
+.beauty {
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+
+.header {
+    background: #3F715C;
+    height: 110px;
+    width: 680px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.react-text {
+    color: #ffffff;
+    margin-top: 48px;
+    margin-bottom: 38px;
+}
+
+#container-head {
+    color: #ABEADF;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.953px;
+    margin-left: 28px;
+    margin-top: 55px;
+
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.react-text h4 {
+    font-family: Inter;
+    font-size: 22.253px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.113px; 
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+
+}
+
+img {
+    margin-left: 10px;
+    color: #91C1CA;
+    width: 29px;
+    height: 35px;
+    margin-top: 44px;
+    margin-left: 28px;
+    margin-bottom: 32px;
+    margin-right: 5px;
+
+}
+
+.text {
+    margin-right: 20px;
+}
+
+.container {
+    width: 680px;
+    height: 559px;
+    flex-shrink: 0;
+    background: #1C4E36;
+    padding-top: 1px;
+
+}
+
+.body-bottom {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.custome-list {
+    width: 850px;
+    margin-left: 51px;
+    margin-top: -20px;
+}
+
+.custome-list ::marker {
+    color: #7DC9DE;
+    font-size: 40px;
+}
+
+.custome-list li { 
+    font-family: Inter;
+    font-size: 19px;
+    margin-top: 21px;
+    color: #ABEADF;
+    padding-bottom: 10px;
+}
+
+.body-logo {
+    width: 40%;
+    height: 314px;
+}
