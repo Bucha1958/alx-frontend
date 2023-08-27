@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.show-case {
+    background: #E0EAF3;
+}
+
+#first {
+    padding-top: 72px;
+    padding-right: 100px;
+}
+
+.first-layer {
+    display: flex;
+    justify-content: center;
+}
+
+.first-image {
+    display: block;
+    margin-left: 10px;
+    margin-right: 200px;
+}
+
+.custome-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-weight: bold;
+
+}
+
+.custome-list li a {
+    text-decoration: none;
+    margin-right: 60px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px;
+}
+
+.btn-primary {
+    border-radius: 9px;
+    background: #F86642;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    padding-right: 27px;
+    padding-left: 27px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-left: 150px
+
+}
+
+#first-header {
+    color: #1D1D1B;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 54.5px;
+    padding-top: 30px;
+    width: 70%;
+    text-transform: capitalize;
+}
+
+.next-second-text {
+    display: flex;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.good-icon {
+    height: 30px;
+    margin-right: 8px;
+    margin-top: 16px;
+}
+
+.icon-text {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.last-good-icon {
+    display: flex;
+    margin-left: 50px;
+}
+
+.btn-secondary {
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background: #F86642;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    border-radius: 15px;
+    backdrop-filter: blur(20px); 
+}
+
+#group {
+    width: 786px;
+    height: 406px;
+    flex-shrink: 0;
+}
+
+.down-case {
+    height: 350px;
+    width: 100%; 
+    background: #292526;
+    padding-top: 40px;
+}
+
+.down1 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#down-text {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px; /* 115.789% */
+    text-transform: capitalize; 
+}
+
+.span1 {
+    color: #FF734F; 
+    text-transform: capitalize;
+}
+
+.down2 {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
