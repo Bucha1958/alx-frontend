@@ -66,15 +66,23 @@ p {
 }
 
 .output-container {
-    margin-top: 35px;
     display: flex;
+    margin-top: 20px;
 }
 
 .input {
     background: #3c506c;
-    width: 211px;
-    height: 41px;
+    width: 230px;
+    height: 58px;
     border: none;
     border-radius: 6px;
     margin-right: 30px;
+    margin-top: 30px;
+}
+
+#input-parameter, #input-parameter2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #e5f0ed;
+    padding-left: 15px;
 }
