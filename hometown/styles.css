@@ -1,0 +1,33 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    text-align: center;
+    margin: 0;
+
+}
+
+.hero {
+    background-image: url("./images/lekki.jpg");
+    background-size: cover;
+    height: 500px;
+    color: #f5ebe0;
+    margin: 0;
+}
+
+.hero h1 {
+    padding-top: 40px;
+
+
+}
+
+img {
+    width: 100px;
+}

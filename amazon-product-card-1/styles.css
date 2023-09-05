@@ -1,0 +1,116 @@
+.container {
+    background-image: url("./icon/background-image.png");
+    background-size: cover;
+    background-position: center;
+    width: 900px;
+    height: 700px;
+    flex-shrink: 0;
+    margin: 0 auto;
+}
+
+.logo-head {
+    padding:20px 0 0 30px;
+    width: 100%;
+}
+
+.logo-head img {
+    height: 59px;
+    width: 59px;
+}
+
+.body-container {
+    width: 32%;
+    display: block;
+    margin-left: auto;
+    border: 2px solid black;
+
+}
+
+.amazon-fashion {
+    width: 200px;
+    display: flex;
+    height: 5px;
+    align-items: center;
+    padding-left: 0px;
+    padding-top: 30px;
+}
+
+.amazon-fashion h3 {
+    font-size: 30px;
+    font-style: inter;
+    font-size: 18px;
+    line-height: 21.78px;
+}
+
+.amazon-down {
+    margin-left: -100px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.shoes h5 {
+    font-weight: lighter;
+    margin: 0px;
+    padding-top: 20px;
+    font-size: 34px;
+}
+
+.rupies {
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub-rupies {
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+
+.cancel-price {
+    position: absolute;
+    font-size: 20px;
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.cancel-price p {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 8px;
+    padding-bottom: 5px;
+}
+
+.delivery {
+    display: flex;
+    width: auto;
+    height: 5px;
+    justify-content: end;
+}
+
+.free-delivery {
+    width: 40px;
+    margin-right: 70px;
+    display: flex;
+    height: 20px;
+}
+
+.free-delivery p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.free-delivery img {
+    margin-top: 17px;
+    width: 20px;
+    height: 20px;
+
+}
