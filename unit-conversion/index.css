@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header h1 {
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    font-weight: 800;
+    padding-top: 33px;
+    margin-top: 7px;
+}
+
+#input-text {
+    width: 100px;
+    height: 83px;
+    left: 217px;
+    border-radius: 5px;
+    border: 2px solid white;
+    background: inherit;
+    line-height: 20px;
+    color: white;
+    font-size: 60px;
+    padding-left: 40px;
+}
+
+#btn {
+    margin-top: 30px;
+    padding: 10px 30px;
+    color: #3D3D3D;
+    font-size:23px;
+    font-family: 'Inter';
+    border-radius: 6px;
+    border: none;
+}
+
+.body {
+    width: 550px;
+    height: 450px;
+    background: #273549;
+    margin: 0 auto;
+    padding-top: 10px;
+
+}
+
+.sub-container {
+    width: 500px;
+    height: 118.57px;
+    background: #394c68;
+    margin: 20px auto 0 auto;
+    padding-top: 30px;
+    border-radius: 3px;
+}
+
+h5 {
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #CCC1FF;
+}
+
+#meter, #volume, #mass {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    color: #CCC1FF;
+    width: 450px;
+}

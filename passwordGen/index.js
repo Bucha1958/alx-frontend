@@ -8,6 +8,8 @@ const characters = [
 
 let inputParam = document.getElementById('input-parameter');
 
+container.innerHTML = "<button onclick='buy()'>Buy!</button>"
+
 let inputParam2 = document.getElementById('input-parameter2');
 
 function getRandomChar() {
